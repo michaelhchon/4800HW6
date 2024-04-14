@@ -9,6 +9,7 @@ This homework demonstrates the following behavioral pattern designs:
 - Memento
 - Mediator
 - Iterator
+  
 Through the application of a chat app
 
 ## Contents
